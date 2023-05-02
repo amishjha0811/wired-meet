@@ -1,1 +1,1 @@
-# wired-meet aj
+# wired-meet platform
